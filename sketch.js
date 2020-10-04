@@ -72,7 +72,7 @@ function setup(){
 }
 function draw(){
   
-   background("yellow"); 
+   background("blue"); 
  text("Score:"+score,500,20);
   
   if(gamestate===play){
